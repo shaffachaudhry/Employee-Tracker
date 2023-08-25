@@ -1,6 +1,6 @@
 DROP DATABASE IF EXISTS company_db;
 CREATE DATABASE company_db;
-
+-- Create database called company_db --
 USE company_db;
 
 CREATE TABLE department (
@@ -29,3 +29,4 @@ CREATE TABLE employee (
   ON DELETE SET NULL
   );
 
+-- defines a database schema w tables as named above --

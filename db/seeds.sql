@@ -20,3 +20,5 @@ VALUES
   ('Jessica', 'Day', 2, 4),
   ('Nick', 'Miller', 3, 2),
   ('Winston', 'Bishop', 4, 3);
+
+-- establishing values/seeding values to schema -- 
